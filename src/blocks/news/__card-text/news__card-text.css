@@ -1,0 +1,12 @@
+.news__card-text {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    font-family:  Roboto, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #949494;
+    word-wrap: break-word;
+}

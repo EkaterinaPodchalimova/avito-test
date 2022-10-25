@@ -1,0 +1,10 @@
+.news-page__title {
+    margin: 10px auto;
+    font-family: 'Playfair Display', Roboto, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.3;
+    color: #121221;
+    word-wrap: break-word;
+}

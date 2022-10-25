@@ -1,0 +1,10 @@
+.news__card {
+    text-decoration: none;
+    width: 100%;
+    border: chocolate 2px solid;
+    border-radius: 8px;
+}
+
+.news__card:hover {
+    transform: scale(1.01);
+}

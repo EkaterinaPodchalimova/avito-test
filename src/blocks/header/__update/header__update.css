@@ -1,0 +1,16 @@
+.header__update {
+    width: 40px;
+    height: 40px;
+    background-image: url(../../../images/159612.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    transition: all 0.5s ease-in-out;
+    border: none;
+}
+
+.header__update:hover {
+    opacity: 0.8;
+    transform: rotate(360deg);
+    cursor: pointer;
+}

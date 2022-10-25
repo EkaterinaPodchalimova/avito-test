@@ -1,0 +1,12 @@
+.news__card-title {
+    margin-top: 5px;
+    margin-bottom: 0;
+    padding-left: 10px;
+    font-family: 'Playfair Display', Roboto, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1.2;
+    color: #121221;
+    word-wrap: break-word;
+}

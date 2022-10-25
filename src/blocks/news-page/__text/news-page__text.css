@@ -1,0 +1,11 @@
+.news-page__text {
+    height: fit-content;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.1;
+    color: #282c34;
+    align-items: center;
+    word-wrap: break-word;
+}

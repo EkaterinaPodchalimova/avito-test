@@ -1,0 +1,24 @@
+.news-page__comments-button {
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    background-image: url(../../../images/159612.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    transition: all 0.5s ease-in-out;
+    border: none;
+    margin-left: 15px;
+}
+
+.news-page__comments-button:hover {
+    opacity: 0.8;
+    transform: rotate(360deg);
+    cursor: pointer;
+}
+
+@media screen and (max-width: 330px) and (min-width: 320px) {
+    .news-page__comments-button {
+        margin-left: 0;
+    }
+}

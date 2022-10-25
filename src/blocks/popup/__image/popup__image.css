@@ -1,0 +1,18 @@
+.popup__image {
+    width: 70%;
+    height: 70%;
+    object-fit: contain;
+    object-position: center;
+    animation: rotate infinite 1.5s;
+
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+
+}

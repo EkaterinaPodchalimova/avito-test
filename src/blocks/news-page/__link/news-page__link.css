@@ -1,0 +1,20 @@
+.news-page__link {
+    height: 20px;
+    text-decoration: none;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-family: Roboto, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 14px;
+    color: black;
+    transition: opacity 1s ease-in-out;
+    word-wrap: break-word;
+}
+
+.news-page__link:hover {
+    color: chocolate;
+    opacity: 0.8;
+}

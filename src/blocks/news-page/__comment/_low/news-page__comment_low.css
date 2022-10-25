@@ -1,0 +1,10 @@
+.news-page__comment_low {
+    width: 80%;
+    margin-left: auto;
+}
+
+@media screen and (max-width: 600px) and (min-width: 320px) {
+    .news-page__comment_low {
+        width: 70%;
+    }
+}
